@@ -1,0 +1,48 @@
+/*!
+* Mondrian Fonts 2.1.1
+* Build do dia 27/06/2022 - 17:04:34 GTM-0300 
+*
+* https://mondrian.claro.com.br
+* Copyright (c) 2019 - 2020 Claro <designops@globalhitss.com.br>
+* Todos os direitos reservados.
+*
+* A redistribuicao ou alteracao sem a permissao dos proprietarios do software e proibida.
+*/
+@font-face {
+  font-family: 'DIN OT';
+  src: url('assets/claro/DINOT-Medium.eot');
+  src: url('assets/claro/DINOT-Mediumd41d.eot?#iefix') format('embedded-opentype'),
+      url('assets/claro/DINOT-Medium.woff2') format('woff2'),
+      url('assets/claro/DINOT-Medium.woff') format('woff'),
+      url('assets/claro/DINOT-Medium.ttf') format('truetype'),
+      url('assets/claro/DINOT-Medium.svg#DINOT-Medium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DIN OT';
+  src: url('assets/claro/DINOT.eot');
+  src: url('assets/claro/DINOTd41d.eot?#iefix') format('embedded-opentype'),
+      url('assets/claro/DINOT.woff2') format('woff2'),
+      url('assets/claro/DINOT.woff') format('woff'),
+      url('assets/claro/DINOT.ttf') format('truetype'),
+      url('assets/claro/DINOT.svg#DINOT') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DIN OT';
+  src: url('assets/claro/DINOT-Bold.eot');
+  src: url('assets/claro/DINOT-Boldd41d.eot?#iefix') format('embedded-opentype'),
+      url('assets/claro/DINOT-Bold.woff2') format('woff2'),
+      url('assets/claro/DINOT-Bold.woff') format('woff'),
+      url('assets/claro/DINOT-Bold.ttf') format('truetype'),
+      url('assets/claro/DINOT-Bold.svg#DINOT-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
